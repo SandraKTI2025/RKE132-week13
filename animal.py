@@ -28,7 +28,7 @@ class Cat(Animal):
     def hiss(self):
         print(f"{self.name}: Hissss!")
 
-    def cat_sees()
+    def cat_sees(self):
     #[your code here]
 
 class Dog(Animal):
